@@ -1,5 +1,8 @@
 {
-  "homepage": "http://nazaninnaghibi.github.io/AssessmentSpeer",
+  "homepage": "http://nazaninnaghibi.github.io",
+  "twitters": "http://nazaninnaghibi.github.io/twitters",
+  "pricing": "http://nazaninnaghibi.github.io/pricing",
+  "payment": "http://nazaninnaghibi.github.io/payment",
   "name": "lab3-app",
   "version": "0.1.0",
   "private": true,
